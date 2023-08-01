@@ -1,0 +1,65 @@
+.image-container {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem -20px 2.2rem;
+}
+
+.chapter {
+    position: absolute;
+}
+
+.chapter font {
+    background: darkgray;
+}
+
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+.flexbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    gap: 10px;
+    flex-direction: column;
+}
+
+.inputLink {
+    width: 85%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 2px solid #ccc;
+}
+
+.selectOption {
+    width: 85%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 2px solid #ccc;
+}
+
+.button {
+    width: 85%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 2px solid #ccc;
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+}
+
+.a-link {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
