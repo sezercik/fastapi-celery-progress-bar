@@ -1,5 +1,6 @@
 # How to deploy fastapi - Fastapi nasıl deploy edilir
-[I write an artical on my blog](https://muhendisadayi.com/fastapi-uygulamasi-nasil-sunucuda-deploy/)
+[I wrote an artical on my blog](https://muhendisadayi.com/fastapi-uygulamasi-nasil-sunucuda-deploy/)
+
 [Blogumdaki makaleye bakabilirsiniz](https://muhendisadayi.com/fastapi-uygulamasi-nasil-sunucuda-deploy/)
 
 ## Screenshots
